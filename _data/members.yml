@@ -1,0 +1,7 @@
+- name: "Dr. Mohammadjafar Hashemi"
+  role: "Principal Investigator"
+  bio: "Dr. Hashemi leads the research in cardiac tissue engineering. His work focuses on developing engineered cardiac tissues using scaffold-based and scaffold-free platforms."
+  
+- name: "John Doe"
+  role: "Postdoctoral Researcher"
+  bio: "John's research is focused on the application of dynamic tunable biomaterials in stem cell differentiation."
